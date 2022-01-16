@@ -1,4 +1,4 @@
-// arrays with variable length
+// arrays with length not mentioned
 
 package main
 
@@ -14,4 +14,5 @@ func main(){
 
   	fmt.Println(arr1)
   	fmt.Println(arr2)
+
 }
